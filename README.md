@@ -10,7 +10,7 @@ import java.util.*;
  * El primer número de la serie es 1, el segundo número es 1 y cada uno de los 
  * siguientes es la suma de los dos anteriores.
  * 1, 1, 2, 3, 5, 8, 13,  ....... , N
- * @author Enrique
+ * @author marco
  */
 public class Main{
     public static void main(String[] args){
